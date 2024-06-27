@@ -1,0 +1,10 @@
+{
+    "server": {
+        "port": 8090
+    },
+    "database": {
+        "name": "Naveen",
+        "host": "localhost",
+        "port": 27017
+    }
+}
